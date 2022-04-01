@@ -37,7 +37,7 @@
         <!-- Page content-->
         <div class="container">
             <div class="text-center mt-5">
-                <h1>Mundo dos Materiais</h1>
+                <h1>Mundo dos Materiaiisis</h1>
                 <p class="lead">O Primeiro site do brasil de Materiais em geral</p>
             </div>
         </div>
